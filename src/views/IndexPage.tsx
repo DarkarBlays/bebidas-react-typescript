@@ -18,7 +18,7 @@ export default function IndexPage() {
         </div>
       ) : (
         <p className="my-10 text-center text-2xl">
-          No hay resultados aun, Utiliza el formilario para buscar recetas
+          No hay resultados aun, Utiliza el formulario para buscar recetas
         </p>
       )}
     </>
